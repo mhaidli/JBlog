@@ -2,7 +2,7 @@
 title:          Abrahams Fancy Site
 bio:            'PhD Student at University of Michigans School of Information'
 description:    "I will do my best to make this work."
-picture:        'assets/img/profile.png'
+picture:        'assets/img/abraham_jester_img.jpg'
 locale:         en_US
 url:            https://mhaidli.github.io/
 
@@ -22,8 +22,8 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-twitter: username
+email: mhaidli@umich.edu
+#twitter: username
 facebook: username
 #google:
   #plus: #username
@@ -32,18 +32,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github: mhaidli
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username

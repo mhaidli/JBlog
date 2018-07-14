@@ -12,11 +12,7 @@ date: 2016-03-21
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
-
-
-If you like this theme or using it, please give a **star** for motivation.
-
-You want to **use it?**      
+My name is Abraham Mhaidli (as you could have guessed). PhD student at university of Michigan's School of Information, studying the intersection of privacy, technology, and ethics. 
+Interests include soccer, cooking, the fine art of popcorn making, rapping, and being an all around lazy bum. Also videogames. And reading. And dark humor.
 
 [Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}

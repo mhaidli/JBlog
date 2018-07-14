@@ -24,7 +24,7 @@ I mean look at that body!
 
 ![happy selfie](../assets/img/stupid_images_for_the_6000/happy_selfie.jpg?raw=true)
 
-![happy in plane](../assets/img/stupid_images_for_the_6000happy_in_plane.jpg?raw=true)
+![happy in plane](../assets/img/stupid_images_for_the_6000/happy_in_plane.jpg?raw=true)
 
 ![tongue out](../assets/img/stupid_images_for_the_6000/tongue_out.jpg?raw=true)
 
